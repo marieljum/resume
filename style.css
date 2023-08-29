@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: -5px;
+}
+
+h3 {
+    margin-bottom: -10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    width: 50%;
+}
+
+#summary {
+    text-align: center;
+}
+
+#par {
+    margin-bottom: -10px;
+}
+    
+#content {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+    background-color: white;
+    font-family: 'Libre Franklin', sans-serif;
+    padding: 10px; 
+    border: 1px solid rgba(173, 165, 165, 0.652);
+}
+
+#contact {
+    margin-bottom: 5px;
+}
